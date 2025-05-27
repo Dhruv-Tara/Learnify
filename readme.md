@@ -22,11 +22,11 @@ Ensure you have Node.js installed on your system.
 ### Steps to run locally:
 1. Clone the repository:
    ```sh
-   git clone https://github.com/dhruv-tara/HACKATHON-SSGMCOE.git
+   git clone https://github.com/Dhruv-Tara/Learnify.git
    ```
 2. Navigate to the project directory:
    ```sh
-   cd HACKATHON-SSGMCOE
+   cd Learnify
    ```
 3. Install dependencies:
    ```sh
